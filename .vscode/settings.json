@@ -1,0 +1,6 @@
+{
+  "files.associations": {
+    "*.cbproj": "xml",
+    "*.def": "cpp"
+  }
+}
